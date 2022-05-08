@@ -1,3 +1,3 @@
 export const LoginPage = () => {
-  return <div>Login Page</div>;
+  return <div className="bg-midnight">Login Page</div>;
 };
