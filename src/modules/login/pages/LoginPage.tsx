@@ -1,3 +1,3 @@
 export const LoginPage = () => {
-  return <div className="bg-midnight">Login Page</div>;
+  return <div className="w-screen h-screen bg-fresh">Login Page</div>;
 };
